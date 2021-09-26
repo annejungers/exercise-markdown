@@ -46,11 +46,13 @@ Rest                 |        |         |           | Yes      |   Yes  |       
 ## Links []()
 
 [8 tips for healthy eating](https://www.nhs.uk/live-well/eat-well/eight-tips-for-healthy-eating/)
+
 [Tracy Anderson Method](https://tracyanderson.com/)
 
 
 ## Static image ![]()
-![Tracy Anderson](https://ta-prod-assets.s3.us-east-1.amazonaws.com/media/2019/11/30114608/experience1.jpgJ)
+
+![Tracy Anderson](https://ta-prod-assets.s3.us-east-1.amazonaws.com/media/2019/11/30114608/experience1.jpg)
 
 ## Animated image: Dance with Tracy :dancer:
 
