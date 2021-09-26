@@ -52,7 +52,7 @@ Rest                 |        |         |           | Yes      |   Yes  |       
 ## Static image ![]()
 ![Tracy Anderson](https://ta-prod-assets.s3.us-east-1.amazonaws.com/media/2019/11/30114608/experience1.jpgJ)
 
-## Animated image
+## Animated image: Dance with Tracy :dancer:
 
 ![Dance with Tracy](https://media3.giphy.com/media/l4pTkk4jrdeyKsRyM/200.gif)
 
